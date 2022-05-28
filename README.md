@@ -66,6 +66,7 @@ https://git.acwing.com/chx/algorithm-note
 ## 力扣
 
 - 2022.3.18 力扣突破200题
+- 2022.5.4 力扣突破300题
 
 ## 2022集训队
 
