@@ -17,7 +17,11 @@
 https://www.acwing.com/user/myspace/blog/30188/
 # 天天做饿梦的算法笔记
 https://git.acwing.com/chx/algorithm-note
-
+# 算法基础课&提高课的笔记
+https://www.acwing.com/blog/content/8368/
+https://www.acwing.com/blog/content/11018/
+#hello算法(图解)
+https://www.hello-algo.com/
 ```
 
 
